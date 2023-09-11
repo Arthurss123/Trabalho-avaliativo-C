@@ -7,7 +7,7 @@ int main() {
     printf("Digite um numero de 3 algarismos (entre 100 6e 999): ");
     scanf("%d", &abc);
 
-    // Verifiquei se o número tem 3 algarismos e se não tivesse, finalizei o programa.
+    // Verifiquei se o número tem 3 algarismos e se não tivesse finalizei o programa.
     if (abc < 100 || abc > 999) {
         printf("O numero nao possui 3 algarismos. Programa finalizado.\n");
         return 1;
