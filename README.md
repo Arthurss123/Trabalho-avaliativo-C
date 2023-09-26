@@ -1,3 +1,6 @@
-# Trabalho-avaliativo-C
+### Trabalho Avaliativo em C
 
-Trabalho avaliativo finalizado na linguagem C
+## Autor
+Arthur Moura Dos Santos
+Instituição: Universidade Catolica de Brasília
+Disciplina: Algoritmos e programação estruturada
